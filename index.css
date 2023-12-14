@@ -18,7 +18,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image:URL(../images/pattern.jpeg);
+    background-image:URL(images/pattern.jpeg);
     background-size: cover;
     position: relative;
     top: 40px;
